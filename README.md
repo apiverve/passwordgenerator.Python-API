@@ -71,16 +71,16 @@ print(result)
     "count": 10,
     "complexity": "strong",
     "passwords": [
-      "U)Oj]lRd21D)blTLHLl3lKG^j)W,Dx",
-      "p,rYFaQGP@B}yfZybgp!7zlH9vE=[I",
-      "Y#j0Y8}mc/WS2['.^-5GpLegHK;^n$",
-      "=3L-:/4OmNO5x]8?:v@F)']l.V7G$K",
-      "npg0T0Yw+5A4=PG-1%OQ'@6el4uKXH",
-      "Nazx+uDX-V.)zJ2v][Umt4I6u3{hKd",
-      ";19[q?U6,'b:j#OO}&hi=bNK!Ydtx",
-      "Lz?E!?YK$F8'hmV}DmKB:&U(]7J'U-",
-      "=kc[XW8I42j],'cPV4P7v_e-SR2?",
-      "sNY3v;G(.Nw'EX$Duz!UD53%l@g)"
+      "nYC+ye^j0?*$[FQh-x2WkBs0)B3Z2A",
+      "KbT'#1$?Z.|y:E*vy3iPndYM78mh.",
+      "]Pja)F/#a{pc[nS37w_@B*+Tjq3)/]",
+      "/C7f!3g-}QnJBJAV7hxiLv'UBkc@2=",
+      ".'i2('fD'80]'l/g)BoY[#OW&8",
+      "1::wMGZ#sUpgeQW9HMPNKbD00jyR|A",
+      "0C]R0!V'Q0g09^H)dn!b9Zi3L|@9B",
+      "evM'CS7ssm!URJ?6|2O-XfgziQZ=b",
+      "52.Z8G||Zf(-|d'c3Lf0Ap#PagG9j(",
+      "inBL1G-H(Oo[B#xfgJ$F*%=3')Ofn"
     ]
   },
   "code": 200
@@ -109,7 +109,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
